@@ -1,8 +1,8 @@
-### **Comprehensive Guide to Resume Formats: Chronological, Hybrid, Functional, and Linear**
+# **Comprehensive Guide to Resume Formats: Chronological, Hybrid, Functional, and Linear**
 
 ---
 
-### **1. Chronological Format**
+## **1. Chronological Format**
 
 #### **Overview**
 - **Structure**: Lists your work history in reverse chronological order (latest job/experience first).
@@ -50,7 +50,7 @@ Achievements:
 
 ---
 
-### **2. Hybrid Format**
+## **2. Hybrid Format**
 
 #### **Overview**
 - **Structure**: Combines features of Chronological and Functional formats.
@@ -99,7 +99,7 @@ Achievements:
 
 ---
 
-### **3. Functional Format**
+## **3. Functional Format**
 
 #### **Overview**
 - **Structure**: Focuses on skills and achievements rather than a detailed job history.
@@ -143,10 +143,10 @@ Education:
 
 ---
 
-### **4. Linear Format**
+## **4. Linear Format**
 
 #### **Overview**
-- **Structure**: Presents information in a straightforward and sequential manner.
+- **Structure**: Presents information straightforwardly and sequentially.
 - **Best for**: Beginners or freshers with minimal experience.
 
 #### **Key Features**
