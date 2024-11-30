@@ -1,6 +1,6 @@
 # **Resume Formats: Chronological, Hybrid, Functional, and Linear**
 
----
+
 
 ## **1. Chronological Format**
 
