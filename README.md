@@ -1,4 +1,4 @@
-# **Comprehensive Guide to Resume Formats: Chronological, Hybrid, Functional, and Linear**
+# **Resume Formats: Chronological, Hybrid, Functional, and Linear**
 
 ---
 
@@ -9,6 +9,12 @@
 - **Best for**: Freshers or individuals with a continuous and stable career path.
 
 #### **Key Features**
+- **Structure:**  
+  1. Contact Information  
+  2. Objective or Summary  
+  3. Work Experience (most recent first)  
+  4. Education  
+  5. Skills  
 - Focuses on work experience and career progression.
 - Highlights job titles, company names, and employment dates.
 - Suitable for job roles requiring direct experience.
@@ -57,6 +63,11 @@ Achievements:
 - **Best for**: Experienced professionals with diverse skills and steady career growth.
 
 #### **Key Features**
+- **Structure:**  
+  1. Contact Information  
+  2. Skills Summary  
+  3. Work Experience  
+  4. Education  
 - Lists work experience in reverse chronological order but includes a dedicated skills or achievements section.
 - Ideal for showcasing a mix of technical expertise and career progression.
 
@@ -106,6 +117,11 @@ Achievements:
 - **Best for**: Candidates with gaps in employment, career changes, or diverse experiences.
 
 #### **Key Features**
+- **Structure:**  
+  1. Contact Information  
+  2. Skills and Competencies  
+  3. Achievements  
+  4. Education
 - Emphasizes skills and abilities over timelines.
 - Work experience is listed briefly or omitted.
 
@@ -134,7 +150,7 @@ Achievements:
 - [Project/Award]
 - [Achievement relevant to the job]
 
-Work Experience (Optional):
+Work Experience :
 - [Role], [Company Name] | [Year]
 
 Education:
@@ -150,6 +166,11 @@ Education:
 - **Best for**: Beginners or freshers with minimal experience.
 
 #### **Key Features**
+- **Structure:**  
+  1. Contact Information  
+  2. Objective  
+  3. Education  
+  4. Skills  
 - Simple and easy to read.
 - Details like education, skills, and achievements are presented clearly.
 
@@ -206,3 +227,7 @@ Work Experience:
 ---
 
 By choosing the right format, you’ll create a resume that not only showcases your skills but also grabs the recruiter’s attention. Select the one that fits your career stage and job requirements, and you’ll be on your way to landing your dream job!
+
+
+
+
